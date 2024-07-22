@@ -8,6 +8,10 @@ git clone https://github.com/SoloTech01/Reverse-Shell.git
 
 **RUNNING**
 
+Change directory:
+
+cd Reverse-Shell
+
 First,run server side to listen on the port:
 
 python server_side.py
